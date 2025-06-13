@@ -1,0 +1,47 @@
+# Компилированные классы
+/target/
+/out/
+
+# Логи
+*.log
+
+# Файлы IDE
+/.idea/
+/*.iml
+*.ipr
+*.iws
+/.classpath
+/.project
+/.settings/
+/.vscode/
+
+# Файлы системы
+.DS_Store
+Thumbs.db
+
+# Maven
+.settings/
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+dependency-reduced-pom.xml
+release.properties
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+*.log
+
+# Spring Boot
+spring-boot-devtools.properties
+
+# Temporary files
+*.tmp
+*.temp
+
+# Конфигурации локальные
+application.properties
+application.yml
+
+# Test output
+/test-output/
+
